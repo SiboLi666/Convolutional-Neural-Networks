@@ -24,5 +24,5 @@ Key Concepts
 - Understand and implement non-max suppression
 - Understand how we label a dataset for an object detection application
 
-##Practice 4: Special applications: Face recognition & Neural style transfer
+## Practice 4: Special applications: Face recognition & Neural style transfer
 Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
